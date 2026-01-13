@@ -1,0 +1,32 @@
+# Ignoruj pliki IDE i tymczasowe
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignoruj katalogi buildów
+bin/
+obj/
+Debug/
+Release/
+
+# Ignoruj pliki Visual Studio Code
+.vscode/
+.vs/
+
+# Ignoruj pliki Resharper
+_ReSharper*/
+*.ReSharper.*
+
+# Ignoruj pliki NuGet
+packages/
+
+# Ignoruj logi
+*.log
+
+# Ignoruj pliki tymczasowe systemu
+*.tmp
+*.temp
+
+# Ignoruj pliki cache
+*.cache
